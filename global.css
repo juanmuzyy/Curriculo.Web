@@ -16,7 +16,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('./Imagem/galaxy.jpg'); /* Corrigido o caminho */
+  background-image: url('../Imagem/galaxy.jpg'); /* Corrigido o caminho */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
