@@ -1,6 +1,6 @@
 #Fala Devs, beleza? ✌🏻️ 
 
-####Acompanha comigo a apresentação desse projeto de Curriculo na Web, bem intuitivo apresentando um pouco sobre mim.  
+###Acompanha comigo a apresentação desse projeto de Curriculo na Web, bem intuitivo apresentando um pouco sobre mim.  
 
 
 ## Currículo em HTML 📰
