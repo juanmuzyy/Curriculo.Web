@@ -14,8 +14,11 @@ Você pode visualizar meu currículo diretamente no GitHub Pages ou baixar o arq
 ## Estrutura do Currículo 🛣
 
 -Introdução: Uma breve apresentação sobre mim.
+
 -Experiência Profissional: Minhas experiências em diferentes cargos e empresas.
+
 -Educação: Formação acadêmica e cursos relevantes.
+
 -Habilidades: Competências técnicas e pessoais.
 
 ## Tecnologias Utilizadas 🖥
