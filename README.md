@@ -1,4 +1,4 @@
- #Fala Devs, beleza? ✌🏻️ 
+# Fala Devs, beleza? ✌🏻️ 
 
 ### Acompanha comigo a apresentação desse projeto de Curriculo na Web, bem intuitivo apresentando um pouco sobre mim.  
 
